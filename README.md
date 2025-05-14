@@ -1,12 +1,19 @@
 Efficient PS Wavefield Separation for Anisotropic Media in the Spatial Domain
 
 Codes are used for test the Efficient PS Wavefield Separation for Anisotropic Media in the Spatial Domain developed by
+
 Qingyou Zhi, College of Geophysics, Chengdu University of Technology, Chengdu, Sichuan 610059, China.
+
 Jiachun You, College of Geophysics, Chengdu University of Technology, Chengdu, Sichuan 610059, China. 
+
 Haipeng Hu, College of Geophysics, Chengdu University of Technology, Chengdu, Sichuan 610059, China.
+
 Wang QinGeng, BGP, CNPC.
+
 Xinyu Fang, State Key Laboratory of Petroleum Resources and Engineering, China University of Petroleum (Beijing), Beijing, 102249, China.
+
 Gang Yao, State Key Laboratory of Petroleum Resources and Engineering, China University of Petroleum (Beijing), Beijing, 102249, China. 
+
 Correspondence author: Jiachun You (youjiachun2009@163.com)
 
 The codes includes:
